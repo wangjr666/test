@@ -7,5 +7,6 @@ public class QueryVo {
 
     public void setUser(User user) {
         this.user = user;
+        System.out.println("");
     }
 }
