@@ -1,12 +1,5 @@
-public class QueryVo {
-    private User user;
-
-    public User getUser() {
-        return user;
-    }
-
-    public void setUser(User user) {
-        this.user = user;
-        System.out.println("");
+public class NewJava {
+    public static void main(String[] args) {
+        System.out.println("Test");
     }
 }
